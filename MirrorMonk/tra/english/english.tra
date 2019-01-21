@@ -1,0 +1,66 @@
+@1=~Mirror Monk Kit~
+@2=~Prevent Mirror Monk clones from using items~
+@101=~This component requires the main component to be installed.~
+@201=~mirror monk~
+@202=~Mirror Monk~
+@203=~MIRROR MONK: The Mirror Monk has very different ki abilities from other monks. The most notable ability of a Mirror Monk is <PRO_HISHER> ability to create copies of <PRO_HIMHER>self, which will fight alongside the monk.
+
+Advantages:
+
+- May use the Create Simulacrum ability. Gains one use at level 1 and an additional use at levels 7, 18, 29 and 40.
+
+Create Simulacrum: When the Mirror Monk uses this ability, <PRO_HESHE> creates an illusory clone of <PRO_HIMHER>self. As with the Simulacrum spell, the clone is created at 60% of the Monk's level and has 60% of the Monk's Hit Points. However, the clone also takes double damage from all damage types and deals half damage with all damage types. The clone lasts for 8 hours, and the Monk can have multiple clones active at once. Clones cannot use this ability.
+
+- 4th level: The Mirror Monk can see through the eyes of <PRO_HISHER> clones, gaining their vision range.
+
+- 8th level: May use the Secret Swap ability at will.
+
+Secret Swap: The Mirror Monk instantly switches places with one of <PRO_HISHER> clones. The character can use this even if the target is on the other side of the area (though they must be in the same area), or if the target is hidden or invisible. Clones cannot use this ability.
+
+- 12th level: Create Simulacrum can now be used multiple times in one round, and can be used while the game is paused.
+
+- 14th level: Secret Swap can now be used on all allied creatures, not just clones of the monk.
+
+- 16th level: The Mirror Monk and <PRO_HISHER> clones gain permanent Non-Detection, and the clones can no longer be dispelled by divination spells.
+
+- 22nd level: Secret Swap can now be used on all creatures, including enemies.
+
+Disadvantages:
+- May not use the Stunning Blow ability.
+- Does not gain any innate magic resistance.
+- Does not gain immunity to charm or poison.~
+@204=~MIRROR MONK: The Mirror Monk has very different ki abilities from other monks. The most notable ability of a Mirror Monk is <PRO_HISHER> ability to create copies of <PRO_HIMHER>self, which will fight alongside the monk.
+
+Advantages:
+
+- May use the Create Simulacrum ability. Gains one use at level 1 and an additional use at levels 7, 18, 29 and 40.
+
+Create Simulacrum: When the Mirror Monk uses this ability, <PRO_HESHE> creates an illusory clone of <PRO_HIMHER>self. As with the Simulacrum spell, the clone is created at 60% of the monk's level and has 60% of the monk's Hit Points. However, the clone also takes double damage from all damage types and deals half damage with all damage types. The clone lasts for 8 hours, and the monk can have multiple clones active at once. Clones cannot use this ability.
+
+- 4th level: The Mirror Monk can see through the eyes of <PRO_HISHER> clones, gaining their vision range.
+
+- 8th level: May use the Secret Swap ability at will.
+
+Secret Swap: The Mirror Monk instantly switches places with one of <PRO_HISHER> clones. The character can use this even if the target is on the other side of the area (though they must be in the same area), or if the target is hidden or invisible. Clones cannot use this ability.
+
+- 12th level: Create Simulacrum can now be used multiple times in one round, and can be used while the game is paused.
+
+- 14th level: Secret Swap can now be used on all allied creatures, not just clones of the monk.
+
+- 16th level: The Mirror Monk and <PRO_HISHER> clones gain permanent Non-Detection, and the clones can no longer be dispelled by divination spells.
+
+- 22nd level: Secret Swap can now be used on all creatures, including enemies.
+
+Disadvantages:
+- May not use the Stunning Blow ability.
+- Does not gain any innate magic resistance.
+- Does not gain immunity to charm or poison.~
+@6001=~You cannot teleport in this area right now.~
+@10001=~Create Simulacrum~
+@10002=~Create Simulacrum
+When the Mirror Monk uses this ability, <PRO_HESHE> creates an illusory clone of <PRO_HIMHER>self. As with the Simulacrum spell, the clone is created at 60% of the Monk's level and has 60% of the Monk's Hit Points. However, the clone also takes double damage from all damage types and deals half damage with all damage types. The clone lasts for 8 hours, and the Monk can have multiple clones active at once. Clones cannot use this ability.~
+@10003=~Secret Swap~
+@10004=~Secret Swap
+The Mirror Monk instantly switches places with one of <PRO_HISHER> clones. The character can use this even if the target is on the other side of the area (though they must be in the same area), or if the target is hidden or invisible. Clones cannot use this ability. The Mirror Monk can use this ability at will.
+
+If the Mirror Monk is 14th level or higher, this ability can be used on all allied creatures, not just clones. If the Mirror Monk is 22nd level or higher, this ability can be used on all creatures, including enemies.~
